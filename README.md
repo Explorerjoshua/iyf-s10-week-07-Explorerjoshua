@@ -1,4 +1,4 @@
-# Week 7: JavaScript Best Practices - Persistent To-Do App
+# Week 7: JavaScript Best Practices - Persistent To-Do App.
 
 ## Author
 
